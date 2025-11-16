@@ -9,7 +9,6 @@ This project analyzes employee attrition to identify key factors influencing emp
 🛠️ Tools Used
 
 * **Python** – Data cleaning & EDA
-* **SQL (MySQL)** – Data querying
 * **Power BI** – Dashboard & KPIs
 * **DAX** – Measures for attrition metrics
 
@@ -60,5 +59,6 @@ Attrition Rate = DIVIDE([Attrition Count], COUNTROWS(Employee))
 * Strengthen promotion & career growth
 * Improve onboarding (first 24 months)
 * Manager & leadership training
+
 
 
